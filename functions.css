@@ -1,0 +1,72 @@
+/**********
+TITLE: Functions
+AUTHOR: Harmanjot Singh (HS)
+PURPOSE: To style the functions.html
+ORIGINALLY CREATED ON: 27 Jan 2019
+LAST MODIFIED ON: 27 Jan 2019
+LAST MODIFIED BY: Harmanjot Singh (HS)
+MODIFICATION HISTORY: Original Build
+**********/
+
+body {
+    background-image: url('shipbattle.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+}
+
+#text {
+    background-color: rgba(247, 247, 247, 0.863);
+  
+	padding-top: 32px;
+    padding-bottom: 32px;
+    padding-right: 44px;
+    padding-left: 44px;
+	
+  	margin-top: 45px;
+    margin-bottom: 45px;
+    margin-right: 45px;
+    margin-left: 45px;  
+}
+
+#command1 {
+    color: darkred;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+
+}
+
+#command2 {
+    color: orange;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+#command3 {
+    color: indianred;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+#command4 {
+    color: darkcyan;
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+#command5 {
+    color: rgb(80, 77, 77);
+    font-family: "Lucida Console", monospace, serif, sans-serif;
+	font-size: 22px;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+}
