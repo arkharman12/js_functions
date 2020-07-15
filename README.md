@@ -1,1 +1,2 @@
-# js_functions
+# JS Functions
+Explore JS functions
